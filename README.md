@@ -1,2 +1,5 @@
-# CS1-Java-Assignments
-lab 2
+# CS1 Java Assignments
+
+## Lab 2
+Description: This lab practices basic Java concepts.
+
